@@ -1,6 +1,6 @@
 {
   "name": "@colion/hamster",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "colion.hamster.cli 工具管理神器",
   "bin": {
     "hamster": "bin/index.js"
@@ -9,7 +9,6 @@
     "node": "18.16.0"
   },
   "dependencies": {
-    "@colion/hamster": "workspace:^",
     "commander": "^12.1.0",
     "inquirer": "^8.2.6"
   },
