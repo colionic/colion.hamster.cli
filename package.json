@@ -1,6 +1,6 @@
 {
   "name": "@colion/hamster",
-  "version": "0.0.11",
+  "version": "1.0.0",
   "description": "colion.hamster.cli 工具管理神器",
   "bin": {
     "hamster": "bin/index.js"
