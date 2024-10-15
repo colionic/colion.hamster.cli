@@ -4,11 +4,7 @@ const path = require('node:path');
 const program = new commander.Command();
 const pkg = require('../package.json');
 const init = require('../lib/init');
-(async () => {
-  const { default: updateNotifier } = await import('update-notifier');
-
-  updateNotifier({ pkg }).notify();
-})();
+(async () => {})();
 
 global.__rootdir = path.join(__dirname, '../');
 
