@@ -1,0 +1,31 @@
+{
+  "name": "@colion/hamster",
+  "version": "0.0.1",
+  "description": "colion.hamster.cli 工具管理神器",
+  "bin": {
+    "hamster": "bin/index.js"
+  },
+  "volta": {
+    "node": "18.16.0"
+  },
+  "dependencies": {
+    "@colion/hamster": "workspace:^",
+    "commander": "^12.1.0",
+    "inquirer": "^12.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.0",
+    "prettier": "^3.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colionic/colion.hamster.cli.git"
+  },
+  "keywords": [],
+  "author": "xujiantong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colionic/colion.hamster.cli/issues"
+  },
+  "homepage": "https://github.com/colionic/colion.hamster.cli#readme"
+}
