@@ -1,2 +1,2 @@
 # colion.hamster.cli
-colion hamster 工具管理神奇
+colion hamster 工具管理神器
